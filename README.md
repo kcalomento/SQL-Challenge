@@ -17,7 +17,7 @@ The project is divided into three phases:
 ## Key Features
 - Proper organization of tables using primary and foreign keys to maintain relational integrity.
 - Implementation of data normalization for optimized querying and analysis.
-- Detailed SQL queries answering critical business questions.
+- Detailed SQL queries answering business questions.
 
 ---
 
